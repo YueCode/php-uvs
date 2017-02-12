@@ -1,0 +1,14 @@
+{
+    "name": "yuecode/uvs",
+    "description": "Qcloud UVS Package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bestony",
+            "email": "xiqingongzi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
