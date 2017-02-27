@@ -6,7 +6,7 @@
 
 执行 `composer` 命令安装拓展
 ```
-composoer require yuecode/uvs
+composer require yuecode/uvs
 ```
 
 在`config/app.php`中的 Provider 中添加
